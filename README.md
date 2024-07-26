@@ -15,6 +15,6 @@ To get started with Odysea Opulesence Rentals, follow these steps:
 Clone the repository: git clone https://github.com/Iosif-Christogeorgos/Car-Rental-Site  
 Navigate to the project directory: cd odysea-oppulesence-rentals  
 Contact  
-For any inquiries or issues, please contact the project owner, IOSIF CHRISTOGEORGOS at olimpiakos909@gmail.com  
+For any inquiries or issues, please contact the project owner, IOSIF CHRISTOGEORGOS at iosifchristogeorgos@gmail.com  
 
 Happy renting!  
